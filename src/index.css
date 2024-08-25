@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --box: rgba(133 77 14);
+  --glow: rgba(6 182 212 / 0.5);
+  --lock: rgba(41 37 36);
+}
